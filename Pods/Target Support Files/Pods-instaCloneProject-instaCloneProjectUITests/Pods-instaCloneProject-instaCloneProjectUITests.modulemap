@@ -1,0 +1,6 @@
+framework module Pods_instaCloneProject_instaCloneProjectUITests {
+  umbrella header "Pods-instaCloneProject-instaCloneProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

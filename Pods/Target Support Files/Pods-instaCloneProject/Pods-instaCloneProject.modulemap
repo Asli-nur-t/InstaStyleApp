@@ -1,0 +1,6 @@
+framework module Pods_instaCloneProject {
+  umbrella header "Pods-instaCloneProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
